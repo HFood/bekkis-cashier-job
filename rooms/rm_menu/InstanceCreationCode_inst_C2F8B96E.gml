@@ -1,0 +1,2 @@
+txt = "fullscreen"
+section = "options"

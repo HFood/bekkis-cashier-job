@@ -1,0 +1,2 @@
+txt = "credits"
+section = "menu"

@@ -1,0 +1,2 @@
+txt = "quit"
+section = "menu"

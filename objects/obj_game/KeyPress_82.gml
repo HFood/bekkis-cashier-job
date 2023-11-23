@@ -1,0 +1,6 @@
+window_set_fullscreen(false)
+audio_stop_sound(global.music)
+scr_sound(sfx_crash)
+scr_sound(sfx_sheep)
+show_message("WHOOPS! Looks like your game has crashed. Too bad! HAHAHA")
+game_end()

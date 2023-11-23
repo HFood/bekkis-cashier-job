@@ -1,0 +1,10 @@
+txt = "story"
+section = "menu"
+startx = x
+starty = y
+image_speed = 0
+snd = -4
+wait = 0
+wait2 = 20
+curstxt = ""
+peliscus = 0
